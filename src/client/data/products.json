@@ -1,0 +1,68 @@
+{"products":[
+  {
+    "id": "001",
+    "name": "Product 1",
+    "price": 60,
+    "promo_message": "10% Off",
+    "promo_discount_amount": 0,
+    "promo_discount_percent": 10,
+    "volume": 0,
+    "volume_discount_amount": 0,
+    "volume_discount_percent": 0
+  },
+  {
+    "id": "002",
+    "name": "Product 2",
+    "price": 50,
+    "promo_message": "£5 Off",
+    "promo_discount_amount": 5,
+    "promo_discount_percent": 0,
+    "volume": 0,
+    "volume_discount_amount": 0,
+    "volume_discount_percent": 0
+  },
+  {
+    "id": "003",
+    "name": "Product 3",
+    "price": 10,
+    "promo_message": "",
+    "promo_discount_amount": 0,
+    "promo_discount_percent": 0,
+    "volume": 0,
+    "volume_discount_amount": 0,
+    "volume_discount_percent": 0
+  },
+  {
+    "id": "004",
+    "name": "Product 4",
+    "price": 20,
+    "promo_message": "",
+    "promo_discount_amount": 0,
+    "promo_discount_percent": 0,
+    "volume": 0,
+    "volume_discount_amount": 0,
+    "volume_discount_percent": 0
+  },
+  {
+    "id": "005",
+    "name": "Product 5",
+    "price": 30,
+    "promo_message": "",
+    "promo_discount_amount": 0,
+    "promo_discount_percent": 0,
+    "volume": 0,
+    "volume_discount_amount": 0,
+    "volume_discount_percent": 0
+  },
+  {
+    "id": "006",
+    "name": "Product 6",
+    "price": 40,
+    "promo_message": "",
+    "promo_discount_amount": 0,
+    "promo_discount_percent": 0,
+    "volume": 0,
+    "volume_discount_amount": 0,
+    "volume_discount_percent": 0
+  }
+]}

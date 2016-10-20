@@ -1,0 +1,36 @@
+{"deals":[
+  {
+    "Name": "Meal Deal",
+    "products": [
+      {
+        "id":"003",
+        "required_qty": 1
+      },
+      {
+        "id":"004",
+        "required_qty": 1
+      }
+    ],
+    "discount_amount": 0,
+    "discount_percent": 10
+  },
+  {
+    "Name": "Brand Match",
+    "products": [
+      {
+        "id":"004",
+        "required_qty": 1
+      },
+      {
+        "id":"005",
+        "required_qty": 1
+      },
+      {
+        "id":"006",
+        "required_qty": 1
+      }
+    ],
+    "discount_amount": 10,
+    "discount_percent": 0
+  }
+ ]}
